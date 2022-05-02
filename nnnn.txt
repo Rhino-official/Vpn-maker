@@ -1,0 +1,6 @@
+Start a catch block and then:
+
+Disconnect the VPN, it will run if it gets any error.
+os.system("windscribe disconnect")
+Display a disconnection message here.
+print("sorry, some error has occurred..!!")
